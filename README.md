@@ -1,8 +1,8 @@
 # KEN
-BABM0424
-#标题
-##二级标题
-
+ a plan for a week
+##self—introduction
 ---
-
-- [ ] 计划
+- name: FJL
+- sex ：men
+- favors :algorithm
+- I want to be better！
